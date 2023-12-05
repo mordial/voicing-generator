@@ -1,0 +1,4 @@
+
+tuning:
+    optional, default to standard tuning 
+    check if the tuning is valid, could be any number of strings 

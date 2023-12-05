@@ -1,0 +1,12 @@
+Command line tool that takes the name of a chord and generates 
+a random way to voice it on a guitar. 
+/**
+ * Valid arguments: 
+ *  - chord     (c) name of the chord to generate
+ *  - tuning    (t) tuning of the guitar being used
+ *  - string    (s) which string to root the chord on 
+ *  - inversion (i) which inversion of the chord to play 
+ *  - number    (n) the number of notes to include
+ *  - movable   (m) y/n, should the voicing be a movable shape 
+ *  - spread   (sp) the maximum fret spread for the voicing 
+ */

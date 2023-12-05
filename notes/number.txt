@@ -1,0 +1,2 @@
+number: 
+    technically could be 1, requires logic for note priority

@@ -1,0 +1,3 @@
+inversion:
+    optional, default to no inversion 
+    make sure the value is applicable to the chosen chord 

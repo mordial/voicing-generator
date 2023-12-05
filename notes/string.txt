@@ -1,0 +1,3 @@
+string:
+    optional, default to the top string 
+    make sure the string number actually exists in the selected tuning 
